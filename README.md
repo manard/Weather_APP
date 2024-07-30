@@ -6,8 +6,11 @@ This Flutter application allows users to check the current weather, hourly forec
 Features:
 
 City Search: Users can enter the name of a city to get the weather information.
+
 Current Weather: Displays the current weather conditions for the selected city.
+
 Hourly Forecast: Provides weather updates for each hour of the day.
+
 7-Day Forecast: Shows the weather forecast for the next 7 days.
 
 
